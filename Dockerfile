@@ -1,0 +1,4 @@
+FROM elixir:1.5
+ADD . ./
+EXPOSE 9000
+EXPOSE 4369
